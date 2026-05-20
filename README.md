@@ -49,8 +49,7 @@ docker-compose up --build
 - Backend API: http://localhost:5000
 - MongoDB: localhost:27017
 - Live Demo: https://smart-leads-beta.vercel.app
-Backend API: https://smart-leads-cljt.onrender.com/api/health
-Demo Recording: https://www.loom.com/share/283ee6a4485c4a5c976a462118840c4b
+- Demo Recording: https://www.loom.com/share/283ee6a4485c4a5c976a462118840c4b
 
 ---
 
